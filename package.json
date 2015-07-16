@@ -4,7 +4,7 @@
   "description": "Node.js 浅尝辄止——分享至我仍未知道名字的十楼公司。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "./node_modules/.bin/ss -m"
   },
   "repository": {
     "type": "git",
